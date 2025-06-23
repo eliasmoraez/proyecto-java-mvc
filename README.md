@@ -34,6 +34,5 @@ src/
 - Java Standard Edition (Java SE)
 - NetBeans como entorno de desarrollo
 
-## 👨‍🏫 Proyecto entregado para la materia [Nombre de la materia]
 - Alumno: Elías Moraez
 - Año: 2025
